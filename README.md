@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**ZMarou/ZMarou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 &nbsp; Languages and Tools :
 
-Here are some ideas to get you started:
+<p align="left">
+<img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
+<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274" />
+<img width="50" height="50" alt="bash" src="./icons/bash-original.svg" />
+<img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZMarou&count_private=true&include_all_commits=true"/>
+</p>
+<p align="center">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZMarou&layout=compact"/>
+</p>

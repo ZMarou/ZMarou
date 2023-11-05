@@ -4,8 +4,8 @@
 
 <p align="left">
 <p>Backend:
-<img width="50" height="50" alt="java" src="https://www.svgrepo.com/svg/303654/java-logo" />
-<img width="50" height="50" alt="spring" src="https://www.svgrepo.com/svg/354379/spring" />
+<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" />
+<img width="50" height="50" alt="spring" src="https://www.svgrepo.com/show/354379/spring.svg" />
 </p>
 <p>Fontend:
 <img width="50" height="50" src="https://www.svgrepo.com/show/349419/javascript.svg" />

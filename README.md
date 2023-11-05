@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Marouane, this is my <a href="https://www.linkedin.com/in/marouane-zg/"><img src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
+
 ## 🛠 &nbsp; Languages and Tools :
 
 <p align="left">

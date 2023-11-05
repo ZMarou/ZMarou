@@ -4,7 +4,7 @@
 
 <p align="left">
 <p>Backend:
-<img width="50" height="50" src="https://www.svgrepo.com/show/353924/java.svg" />
+<img width="50" style="'background-color':'white'" height="50" src="https://www.svgrepo.com/show/353924/java.svg" />
 <img width="50" height="50" src="https://www.svgrepo.com/show/354379/spring.svg" />
 </p>
 <p>Frontend:
@@ -16,7 +16,7 @@
 <img width="50" height="50" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 </p>
 <p>Cloud:
-<img width="50" height="50" src="https://www.svgrepo.com/show/448266/aws.svg" />
+<img width="50" height="50" style="'background-color':'white'" src="https://www.svgrepo.com/show/448266/aws.svg" />
 </p>
 <p>CI/CD:
 <img width="50" height="50" src="https://www.svgrepo.com/show/353929/jenkins.svg" />

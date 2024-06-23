@@ -9,7 +9,7 @@ I'm Marouane and this is my
 <p>Backend:
 <img width="50" height="50" src="https://www.svgrepo.com/show/353924/java.svg" />
 <img width="50" height="50" src="https://www.svgrepo.com/show/354380/spring-icon.svg" />
-<img width="50" height="50" src="https://www.svgrepo.com/svg/373728/kotlin.svg" />
+<img width="50" height="50" src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" />
 </p>
 <p>Frontend:
 <img width="50" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg" />

@@ -10,6 +10,7 @@ I'm Marouane and this is my
 <img width="50" height="50" src="https://www.svgrepo.com/show/353924/java.svg" />
 <img width="50" height="50" src="https://www.svgrepo.com/show/354380/spring-icon.svg" />
 <img width="50" height="50" src="https://www.svgrepo.com/show/452238/jb-kotlin.svg" />
+<img width="50" height="50" src="https://www.svgrepo.com/show/374016/python.svg" />
 </p>
 <p>Frontend:
 <img width="50" height="50" src="https://www.svgrepo.com/show/452228/html-5.svg" />
